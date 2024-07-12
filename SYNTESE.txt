@@ -1,0 +1,37 @@
+°°° COURS : TP Electricité | Prof : Mr Dimba °°°°
+_________________________________________________
+
+Lien openclassrooms : 
+https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos
+
+¤ Ce cours permet d'implémenter les portes logiques vues en Electronique digital ¤
+
+Séance 1
+--------
+- RAPPELS -
+[Normes Européene / Américaine; Schéma Electrique; Table de vérité; Equation logique; Chronogramme]
+
+$Les portes logiques :
+    - OUI
+    - NON (inverseur) *
+    - OU *
+    - ET * 
+    - Nand / Non ET *
+    - Nor / Non OU *
+    - Xor / OU exclusif
+    - Xnor ou Equivalence
+    - Implication (porte NON branchée sur une des entrées de la porte OU)
+    - Inhibition (porte NON branchée sur une des entrées de la porte ET)
+
+- Composants de base pour l'implémentation -
+$Le transistor MOS(Metal-Oxyde-Semiconducteur) :
+    - le NMOS (ou NPN)
+    - le PMOS (ou PNP, présence d'une porte non (i.e un petit rond))
+
+$alimentation 
+$masse
+
+
+Séance 2
+--------
+$Implémentation en circuit des fonctions logiques en utilisant directement les portes logiques.
